@@ -1,7 +1,8 @@
 # Reading List of LLM-based Data Science Agents.
 ### This is the recommended reading list for the paper ”[A Survey on Large Language Model-based Agents for Statistics and Data Science](https://www.arxiv.org/abs/2412.14222)“
 
-![CleanShot 2024-12-17 at 17.38.45.png](https://s2.loli.net/2024/12/17/SukRIPfJtTxApnq.png)
+![CleanShot 2025-06-16 at 11 53 07@2x](https://github.com/user-attachments/assets/a5c6a516-04a3-4c7d-a069-8317856d1ace)
+
 
 ## **Data Science Agent**
 - [AUTOMIND: Adaptive Knowledgeable Agent for Automated Data Science](https://arxiv.org/pdf/2506.10974) ([GitHub](https://github.com/InnovatingAI/AutoMind))
@@ -20,7 +21,7 @@
 - [Investigating Interaction Modes and User Agency in Human-LLM Collaboration for Domain-Specific Data Analysis](https://arxiv.org/abs/2405.05548)
 - [Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
 - [JarviX: A LLM No-code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)
-- [LAMBDA: A Large Model-Based Data Agent](https://arxiv.org/abs/2407.17535)
+- [LAMBDA: A Large Model-Based Data Agent](https://arxiv.org/abs/2407.17535) ([Github](https://github.com/AMA-CMFAI/LAMBDA))
 - [Large Language Models as Data Preprocessors](https://arxiv.org/abs/2308.16361)
 - [Large Language Models for Tabular Data: Progresses and Future Directions](https://dl.acm.org/doi/10.1145/3626772.3661384)
 - [Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering](https://arxiv.org/abs/2305.03403)
